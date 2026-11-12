@@ -1,0 +1,17 @@
+
+{
+  "name": "MangaVerse Community Repository",
+  "version": 1,
+  "extensions": [
+    {
+      "id": "example_source",
+      "name": "Example Source",
+      "version": "1.0.0",
+      "language": "id",
+      "description": "Example manga metadata provider",
+      "author": "MangaVerse",
+      "contentRating": "safe",
+      "scriptUrl": "https://example.com/example_source.js"
+    }
+  ]
+}
